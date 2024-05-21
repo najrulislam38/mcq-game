@@ -1,0 +1,21 @@
+.question-section {
+    margin: 20px;
+  }
+  
+  .question-text {
+    margin-bottom: 12px;
+    font-size: 24px;
+  }
+  
+  .answer-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .answer-section button {
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
